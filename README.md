@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Amulya Prasad Rayabhagi or Amulya and I am a Full-Stack Software Engineer primarly focusing on AI/ML !
+<h2>👋 Hi there, I'm Amulya Rayabhagi and I am a Full-Stack Software Engineer with a focus on AI/ML!</h2> 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />   
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white" />  
