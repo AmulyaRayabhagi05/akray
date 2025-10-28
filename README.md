@@ -4,15 +4,11 @@
 
 ---
 
-## 🚀 My Developer Stats
-
-<p align="center">
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=amulyarayabhagi05&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Amulya's GitHub Stats" width="400"/>
 </p>
 
 ---
-
-## 💻 Tech Stack & Tools
 
 This is my current primary tech arsenal. I enjoy working across the full stack and diving into complex AI/ML models.
   <p>
@@ -50,15 +46,16 @@ This is my current primary tech arsenal. I enjoy working across the full stack a
 
 ---
 
-## 🧠 Featured Academic Projects
+## Featured Academic Projects
 
 
 ---
 
-## 🤝 Connect with Me
 
-<p>
-    <a href="https://linkedin.com/in/amulya-rayabhagi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:amulya.rayabhagi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/AmulyaRayabhagi05"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
